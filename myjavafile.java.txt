@@ -1,4 +1,8 @@
 1st line by DEV B
 2nd line by DEV A
+<<<<<<< HEAD
 3rd line by DEV B
 4th line by DEV A
+=======
+3rd line by DEV B
+>>>>>>> d0b7eb8f047d6cd1d94926557f9b89f37c243cb0
